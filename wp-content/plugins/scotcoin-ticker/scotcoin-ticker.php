@@ -1,5 +1,11 @@
 <?php
 
+/*
+Plugin Name: Scotcoin Ticker
+Description: Adds a shortcode to display a Scotcoin ticker
+Author: dooglet
+*/
+
 function scotcoin_ticker() {
     $api_request    = 'http://bittrex.com/api/v1.1/public/getmarketsummary?market=btc-scot';
     $api_response = wp_remote_get( $api_request );
