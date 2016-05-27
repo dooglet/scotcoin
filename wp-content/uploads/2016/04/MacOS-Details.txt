@@ -1,0 +1,7 @@
+Counterparty wallet for
+
+12 word passphrase:
+Quick URL:
+Quick URL passphrase:
+Wallet address:
+Private Key:

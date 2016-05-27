@@ -1,0 +1,8 @@
+Counterparty wallet for <YOUR NAME HERE>
+
+
+12 word passphrase:chin dark brave quiet beautiful near rich place window phone dot slam
+Quick URL:https://wallet.counterwallet.io/#cp=U2FsdGVkX18IOStHYi0Ndwtq66lreIrdIjJdXdVqLG9LEKjTRz+aZL6HrA/2nWRT+0rxsEgMPBDdecB2zIBd4PrNhlPzy6Wi28YNufWqdlBZJLExhxbfBQ7i8kkS8fxi
+Quick URL passphrase: Stupid Short Passphrase
+Wallet address:1JuCdvMSkZvUoDSKHvDadEYzJjaV5D4Knc
+Private Key:L1Q2c6MRcHdPU626Gzmb14FyMyh1rxahfpkdyRpuBWzM9tzT2DqD

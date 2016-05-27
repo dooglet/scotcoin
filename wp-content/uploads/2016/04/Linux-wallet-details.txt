@@ -1,0 +1,20 @@
+  -=== Counterparty Wallet Details ===-
+
+Paste your information in the fields below.
+Print out this sheet and keep it in a secure place.
+Anyone who has access to this information has full access to your account.
+
+
+Wallet label:
+
+12 word passphrase:
+
+Quick URL:
+
+Quick URL passphrase:
+
+Wallet address:
+
+Private Key:
+
+#######################################
